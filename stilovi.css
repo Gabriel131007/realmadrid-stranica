@@ -8,13 +8,12 @@
 
 .linkovi {
     color: cornsilk;
-    background-color: darkblue ;
+    background-color: blueviolet ;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     border: 2px solid navy;
     border-radius: 5px;
     font-size: large;
-    padding: 5px;
     text-decoration: none;
 }
 
@@ -25,15 +24,56 @@
 
 .naslov {
     color: white;
-    background-color: black;
+    background-color: navy;
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
 
 
 .naslov1 {
+    background-color: navy;
+    margin-right: 1775px ;
     color: white;
-    background-color: black;
-    text-align: center;
+    text-align: left; 
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
 }
+
+.pp {
+    color: beige;
+    text-decoration: none;
+
+
+}
+.pp:hover {
+    background-color: lightskyblue;
+}
+
+.t {
+    color: beige;
+    text-decoration: none;
+}
+.t:hover {
+    background-color: lightskyblue;
+}
+
+.s {
+    color: beige;
+    text-decoration: none;
+}
+.s:hover {
+    background-color: lightskyblue;
+}
+
+.ig {
+    color: beige;
+    text-decoration: none;
+}
+.ig:hover {
+    background-color: lightskyblue;
+}
+
+
+
+
+
+
