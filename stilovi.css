@@ -1,2 +1,39 @@
+.boja {
+    color: navy;
+    background-color: rgb(228, 198, 31);
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
 
-    
+.linkovi {
+    color: cornsilk;
+    background-color: darkblue ;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid navy;
+    border-radius: 5px;
+    font-size: large;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.linkovi:hover {
+    background-color: gold;
+    color: azure;
+}
+
+.naslov {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+
+.naslov1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
