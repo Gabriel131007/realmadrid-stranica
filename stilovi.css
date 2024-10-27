@@ -1,7 +1,7 @@
 .boja {
     color: black;
     text-align: left;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: x-large;
 }
 
@@ -102,12 +102,12 @@
     color: black;
     text-align: left;
     text-decoration: none;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: x-large;
 }
 .dres {
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: 330px;
     font-size: x-large;
 
@@ -115,7 +115,7 @@
 
 .grb {
     color: black;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: 1388px;
     font-size: x-large;
     margin-top: -50px;
@@ -125,13 +125,278 @@
 .trofejitekst{
     color: black;
     text-align: left;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: x-large;
 }
 
 body {
-    background-color: bisque;
+    background-color:darkslategrey;
+    
 }
+
+.slike {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.igrac1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac1 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac1 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac2 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac2 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac3 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac3 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac4 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac4 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac5 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac5 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac6 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac6 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac6 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac7 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac7 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac7 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac8 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac8 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac9 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac9 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac9 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac10 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac10 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac10 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+.igrac11 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: #f9f9f9;
+}
+
+.igrac11 img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.igrac11 p {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #333;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
