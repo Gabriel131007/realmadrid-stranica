@@ -1,76 +1,143 @@
 .boja {
-    color: navy;
-    background-color: rgb(228, 198, 31);
+    color: black;
     text-align: left;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: x-large;
 }
 
 .linkovi {
     color: cornsilk;
-    background-color: blueviolet ;
-    text-align: center;
+    background-color: lightskyblue;
+    text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    border: 2px solid navy;
-    border-radius: 5px;
-    font-size: large;
+    font-size: x-large;
     text-decoration: none;
+    border-style: solid;
+    border-color: #14274e;
+    margin-right: 1170;
 }
 
 .linkovi:hover {
-    background-color: gold;
+    background-color: lightskyblue;
     color: azure;
 }
 
 .naslov {
     color: white;
-    background-color: navy;
+    background-color: #14274e;
     text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 700;
+    margin-right: 700;
+    border-radius: 20px;
+    font-size: 50px;
 }
 
 
 .naslov1 {
-    background-color: navy;
-    margin-right: 1775px ;
-    color: white;
+    background-color: lightskyblue;
+    margin-right: 1750px ;
+    color: black;
     text-align: left; 
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+}
+.naslov1 {
+    border-style: solid;
+    border-color: #14274e;  
 }
 
 .pp {
-    color: beige;
+    color: black;
     text-decoration: none;
-
-
+    margin: 10px;
 }
 .pp:hover {
-    background-color: lightskyblue;
+    background-color: darkgrey;
 }
 
 .t {
-    color: beige;
+    color: black;
     text-decoration: none;
+    margin: 10px;
 }
 .t:hover {
-    background-color: lightskyblue;
+    background-color: darkgrey;
 }
 
 .s {
-    color: beige;
+    color: black;
     text-decoration: none;
+    margin: 10px;
 }
 .s:hover {
-    background-color: lightskyblue;
+    background-color: darkgrey;
 }
 
 .ig {
-    color: beige;
+    color: black;
     text-decoration: none;
+    margin: 10px;
 }
 .ig:hover {
-    background-color: lightskyblue;
+    background-color: darkgrey;
 }
+
+.back {
+    background-color: lightskyblue;
+    margin-right: 1835px;
+    color: black;
+    text-align: left; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;  
+    font-size: x-large; 
+    text-decoration: none;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #14274e;  
+}
+.back:hover {
+    background-color: darkgrey;
+}
+
+.stadiontekst {
+    color: black;
+    text-align: left;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+.dres {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 330px;
+    font-size: x-large;
+
+}
+
+.grb {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 1388px;
+    font-size: x-large;
+    margin-top: -50px;
+}
+
+
+.trofejitekst{
+    color: black;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+}
+
+body {
+    background-color: bisque;
+}
+
+
+
+
+
+
 
 
 
