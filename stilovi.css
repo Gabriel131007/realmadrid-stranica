@@ -1,5 +1,5 @@
 .boja {
-    color: black;
+    color: bisque;
     text-align: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: x-large;
@@ -14,7 +14,7 @@
     text-decoration: none;
     border-style: solid;
     border-color: #14274e;
-    margin-right: 1170;
+    margin-right: 1045px;
 }
 
 .linkovi:hover {
@@ -23,14 +23,19 @@
 }
 
 .naslov {
-    color: white;
-    background-color: #14274e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: lightskyblue; 
+    border-style: solid;
+    border-color: #14274e;  
     text-align: center;
+    margin-left: 750;
+    margin-right: 750;
+    font-size: xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    margin-left: 700;
-    margin-right: 700;
     border-radius: 20px;
-    font-size: 50px;
 }
 
 
@@ -99,31 +104,40 @@
 }
 
 .stadiontekst {
-    color: black;
+    color: bisque;
     text-align: left;
     text-decoration: none;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: x-large;
 }
 .dres {
+    background-color: lightskyblue;
     color: black;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-left: 330px;
-    font-size: x-large;
+    text-align: left; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    border-style: solid;
+    border-color: #14274e;
+    margin-right: 1455px;
+    margin-left: 350;
 
 }
 
+
 .grb {
+    background-color: lightskyblue;
     color: black;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin-left: 1388px;
-    font-size: x-large;
+    text-align: left; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    border-style: solid;
+    border-color: #14274e;
+    margin-right: 415px;
+    margin-left: 1400;
     margin-top: -50px;
 }
 
 
 .trofejitekst{
-    color: black;
+    color: bisque;
     text-align: left;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: x-large;
@@ -383,6 +397,15 @@ body {
     margin: 5px 0;
     font-size: 14px;
     color: #333;
+}
+
+.ob {
+        color: black;
+        text-decoration: none;
+        margin: 10px;
+}
+.ob:hover{
+        background-color: darkgrey;
 }
 
 
